@@ -1,5 +1,4 @@
-*.txt
+*.a
+*.d
 *.o
-*main
-main.c~
-#main.c#
+bin/chessviz
