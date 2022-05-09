@@ -1,5 +1,5 @@
 #include "libchessviz/print.h"
-#include "read_move.h"
+#include "libchessviz/read_move.h"
 
 int main()
 {
