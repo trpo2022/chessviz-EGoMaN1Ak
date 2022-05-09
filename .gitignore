@@ -1,7 +1,6 @@
 obj/src/chessviz/.o
-obj/src/geometry/.a
-obj/src/geometry/.d
-
+obj/src/chessviz/.a
+obj/src/chessviz/.d
 
 obj/src/libchessviz/.o
 obj/src/libchessviz/.a
