@@ -1,4 +1,11 @@
-*.a
-*.d
-*.o
+obj/src/chessviz/.o
+obj/src/geometry/.a
+obj/src/geometry/.d
+
+
+obj/src/libchessviz/.o
+obj/src/libchessviz/.a
+obj/src/libchessviz/.d
+
+
 bin/chessviz
