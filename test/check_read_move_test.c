@@ -1,6 +1,6 @@
 #include <libchessviz/chessviz.h>
 
-#include <ctest.h>
+#include <Ctest.h>
 
 char mass[9][9]
         = {{'8', 'r', 'n', 'b', 'q', 'k', 'b', 'n', 'r'},
